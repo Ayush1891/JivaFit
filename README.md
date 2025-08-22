@@ -1,12 +1,20 @@
 # JivaFit
 
-Jivafit is a deep learning project focused on disease risk prediction. It utilizes a Multi-Layer Perceptron (MLP), a type of feedforward neural network, to analyze and learn from medical and health datasets. The goal is to provide a predictive tool for potential health risks.
+Jivafit is a deep learning project focused on predicting disease risk. It utilizes a Multi-Layer Perceptron (MLP), a type of feedforward neural network, to analyze and learn from medical and health datasets. The goal is to provide a predictive tool for potential health risks.
 
 ---
 
 🌟 Project Overview
 
-Jivafit is a deep learning model designed to predict the risk of various diseases. It is built using a Multi-Layer Perceptron (MLP), a fundamental type of neural network capable of learning complex, non-linear relationships from structured data. The goal of this project is to provide a predictive tool that can analyze a wide range of health-related data points, such as symptoms, lab results, and demographic information, to assess an individual's potential risk for specific health conditions.
+Jivafit is a deep learning model designed to predict the risk of various diseases. It is built using a Multi-Layer Perceptron (MLP), a fundamental type of neural network capable of learning complex, non-linear relationships from structured data. The goal of this project is to develop a predictive tool that can analyze a wide range of health-related data points, such as symptoms, lab results, and demographic information, to assess an individual's potential risk for specific health conditions.
+
+---
+
+🧾 Dataset
+
+Source: https://www.kaggle.com/datasets/nasirayub2/human-vital-sign-dataset
+
+File: human_vital_signs_dataset_2024.csv
 
 ---
 
